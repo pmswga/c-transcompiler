@@ -1,0 +1,11 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Аннотация}{2}{}%
+\contentsline {section}{\numberline {2}Миграция}{2}{}%
+\contentsline {section}{\numberline {3}Миграция кода}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Способы и инструментальные средства}{4}{}%
+\contentsline {section}{\numberline {4}Стандарты языка C}{5}{}%
+\contentsline {section}{\numberline {5}Решение}{5}{}%
+\contentsline {subsection}{\numberline {5.1}Формирование правил перехода от старых конструкций языка к новым}{5}{}%
+\contentsline {subsection}{\numberline {5.2}Прототип транскомпилятора}{6}{}%
+\contentsline {section}{\numberline {6}Заключение}{6}{}%
+\contentsline {section}{\numberline {7}Список литературы}{7}{}%
